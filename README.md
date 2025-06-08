@@ -13,6 +13,6 @@
 
 ## Socials
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aredesog_/)
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/guilherme-aredes-830206313/)
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/guilhermearedesg/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:guiaredes19@gmail.com)
 
