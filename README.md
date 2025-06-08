@@ -5,7 +5,7 @@
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=java,react" />
+<img src="https://skillicons.dev/icons?i=java,cpp,react" />
 
 ## Discord
 [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
