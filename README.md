@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 E aí, tudo bem? Sou o Guilherme Aredes 👨‍💻
 
-<!--
-**aredesog/aredesog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Tools
+<img src="https://skillicons.dev/icons?i=python,html,github,vscode" />
 
-Here are some ideas to get you started:
+## Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=java,react" />
+
+## Discord
+[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
+
+## Socials
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://https://www.instagram.com/aredesog_/)
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/guilherme-aredes-830206313/)
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:guiaredes19@gmail.com)
+
