@@ -1,5 +1,8 @@
 ## 👋 Hi, how are you? I'm Guilherme Aredes 👨‍💻
 
+##About Me
+Estudante de Bacharelado em Ciência da Computação (1º/8°) na Universidade Federal de Alfenas. Apaixonado por tecnologia, inovação e educação, com um forte interesse em transformar ideias em soluções práticas através da programação. Comprometido com a excelência acadêmica e o impacto positivo na área.
+
 ## Languages and Tools
 <img src="https://skillicons.dev/icons?i=cpp,html,github,vscode" />
 
