@@ -1,11 +1,11 @@
 ## 👋 Hi, how are you? I'm Guilherme Aredes 👨‍💻
 
 ## Languages and Tools
-<img src="https://skillicons.dev/icons?i=python,cpp,html,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,html,github,vscode" />
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=java,react" />
+<img src="https://skillicons.dev/icons?i=java,python" />
 
 ## Visit my Dev Community
 
