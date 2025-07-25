@@ -10,11 +10,6 @@ Estudante de Bacharelado em Ciência da Computação (2º/8°) na Universidade F
 
 <img src="https://skillicons.dev/icons?i=python,javascript" />
 
-## Languages Used
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aredesog&show_icons=true&locale=en&layout=compact" alt="aredesog" /> </p
-
-
-
 ## Visit my Dev Community
 
 [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
