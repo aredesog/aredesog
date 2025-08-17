@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!--
+    Template criado por @yasmndev
+    Licenciado sob Creative Commons BY-NC 4.0
+    Proibido uso comercial sem autorização da autora.
+    Saiba mais: https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR
+    -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- CSS principal -->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Título da página -->
+    <title>Portfólio - @aredesog</title>
+
+    <!-- Favicon do site -->
+    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon" />
+
+    <!-- Fontes Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bitcount:wght@100..900&family=Sora:wght@100..800&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Bibliotecas de ícones -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <!-- CABEÇALHO / NAVEGAÇÃO -->
+    <header>
+      <div class="container nav-wrapper">
+        <h1 class="logo">AREDES<span class="realce">DEV</span></h1>
+
+        <!-- Menu mobile com checkbox -->
+        <input type="checkbox" id="menu-toggle" />
+        <label for="menu-toggle" class="menu-icon">&#9776;</label>
+
+        <nav class="navbar">
+          <a href="#sobre">Sobre</a>
+          <a href="#skills">Skills</a>
+          <a href="#projetos">Projetos</a>
+          <a href="#github">GitHub</a>
+          <a href="#contato">Contato</a>
+        </nav>
+      </div>
+    </header>
+
+    <!-- HERO - Sessão de boas-vindas com animação de texto -->
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-img">
+          <img
+            src="https://avatars.githubusercontent.com/u/205771252?v=4"
+            alt="Foto de perfil"
+            class="profile-img"
+          />
+        </div>
+        <div class="hero-text">
+          <h2><span class="typed-text" id="typed"></span></h2>
+          <p>
+            Sou Guilherme Aredes, desenvolvedor front-end com background em
+            design. Crio interfaces funcionais, acessíveis e com foco na
+            experiência do usuário.
+          </p>
+          <a href="#projetos" class="btn btn-primary">Ver meus projetos</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- SOBRE MIM -->
+    <section id="sobre" class="section">
+      <div class="container about-text">
+        <h2 class="section-title">Sobre mim</h2>
+        <p class="section-text">
+          Sou desenvolvedor front-end com background em design gráfico e
+          experiência com criação de interfaces web. Atuo com HTML, CSS,
+          JavaScript, e Git construindo soluções que equilibram
+          funcionalidade, usabilidade e identidade visual.
+        </p>
+        <p class="section-text">
+          Sou estudante da Unifal (Universidade Federal de Alfenas), atualmente 
+          estou no segundo periodo da faculdade, tenho experiencia com linguagem 
+          C e C++ para desenvolvimento de programas. 
+        </p>
+        <p class="section-text">
+          Continuo estudando e evoluindo nos meus projetos paralelos, sempre
+          buscando aprender mais e compartilhar o que sei de forma simples e
+          prática.
+        </p>
+      </div>
+    </section>
+
+    <!-- HABILIDADES / STACKS (Cards) -->
+    <section id="skills" class="section">
+      <div class="container">
+        <h2>Skills</h2>
+        <div class="skills-grid">
+          <!-- Cada "skill-card" representa uma habilidade com ícone -->
+          <div class="skill-card">
+            <i class="devicon-html5-plain colored"></i>
+            <span>HTML5</span>
+          </div>
+          <div class="skill-card">
+            <i class="devicon-css3-plain colored"></i>
+            <span>CSS3</span>
+          </div>
+          <div class="skill-card">
+            <i class="devicon-javascript-plain colored"></i>
+            <span>JavaScript</span>
+          </div>
+          <div class="skill-card">
+            <i class="devicon-cplusplus-plain colored"></i>
+            <span>C++</span>
+          </div>
+          <div class="skill-card">
+            <i class="devicon-git-plain colored"></i>
+            <span>Git</span>
+          </div>
+          <div class="skill-card">
+            <i class="devicon-github-original"></i>
+            <span>GitHub</span>
+          </div>
+          <div class="skill-card">
+            <i class="devicon-c-plain colored"></i>
+            <span>C</span>
+          </div>
+        </div>
+
+        <!-- Alternativa: Habilidades em formato de tags -->
+        <!-- <div class="skills-list-icons">
+          <span class="skill-tag"><i class="devicon-html5-plain colored"></i> HTML</span>
+          <span class="skill-tag"><i class="devicon-css3-plain colored"></i> CSS</span>
+          <span class="skill-tag"><i class="devicon-javascript-plain colored"></i> JavaScript</span>
+          <span class="skill-tag"><i class="devicon-typescript-plain colored"></i> TypeScript</span>
+          <span class="skill-tag"><i class="devicon-react-original colored"></i> React</span>
+          <span class="skill-tag"><i class="devicon-tailwindcss-plain colored"></i> Tailwind</span>
+          <span class="skill-tag"><i class="devicon-sass-original colored"></i> Sass</span>
+          <span class="skill-tag"><i class="devicon-git-plain colored"></i> Git</span>
+          <span class="skill-tag"><i class="devicon-github-original"></i> GitHub</span>
+          <span class="skill-tag"><i class="devicon-figma-plain colored"></i> Figma</span>
+        </div> -->
+      </div>
+    </section>
+
+    <!-- PROJETOS -->
+    <section id="projetos" class="section">
+      <div class="container">
+        <h2>Projetos</h2>
+        <div class="projetos-grid">
+          <!-- Cada projeto pode ter link para GitHub e Deploy -->
+          <!-- É só duplicar esse bloco e alterar os dados -->
+          <div class="projeto-card">
+            <h3>Imobiliaria</h3>
+            <p>
+              Desenvolvimento do backend em C++ de um sistema leitor de arquivos para uma imobiliária local, 
+              com o objetivo de processar, armazenar e organizar informações referentes a imóveis disponíveis.
+            </p>
+            <div class="btns">
+              <a href="https://github.com/aredesog/AEDs-1/blob/main/Projeto1.cpp">Ver projeto</a>
+            </div>
+          </div>
+
+          <div class="projeto-card">
+            <h3>Jogo do Pacman</h3>
+            <p>
+              Desenvolvimento do backend de uma réplica do clássico jogo Pac-Man, utilizando 
+              caracteres especiais para a construção e exibição dos elementos visuais do jogo.
+            </p>
+            <div class="btns">
+              <a href="https://github.com/aredesog/linguagem-C/blob/main/pacman.c">Ver projeto</a>
+            </div>
+          </div>
+
+          <div class="projeto-card">
+            <h3>Projeto Imagem</h3>
+            <p>
+              manipulação de matrizes (imagens) utilizando ponteiros em C/C++, implementando 
+              funcionalidades para processar imagens em tons de cinza a partir de arquivos-texto no formato PGM.
+            </p>
+            <div class="btns">
+              <a href="https://github.com/aredesog/AEDs-1/blob/main/Projeto2.cpp">Ver projeto</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SEÇÃO GITHUB (opcional para quem ainda não tem projetos) -->
+    <!-- <section id="github" class="section">
+      <div class="container">
+        <h2 class="section-title">Meus códigos no GitHub</h2>
+        <p class="section-subtitle">Tô começando minha jornada como dev e já estou praticando bastante! No meu GitHub você encontra exercícios, mini projetos e experiências enquanto aprendo e evoluo.</p>
+        <a href="https://github.com/seuusuario" target="_blank" class="btn btn-primary">
+          <i class="devicon-github-original"></i> Ver meu GitHub
+        </a>
+      </div>
+    </section> -->
+
+    <!-- CONTATO -->
+    <section id="contato" class="section">
+      <div class="container contato-card">
+        <h2>Contato</h2>
+        <p>Me chama no LinkedIn ou manda um e-mail para contato! </p>
+        <div class="social-links">
+          <a href="https://github.com/aredesog" class="btn-social">
+            <i class="devicon-github-original"></i> GitHub
+          </a>
+          <a href="https://www.linkedin.com/in/guilhermearedesg/" class="btn-social">
+            <i class="fab fa-linkedin"></i> LinkedIn
+          </a>
+          <a href="guiaredes19@gmail.com" class="btn-social">
+            <i class="fas fa-envelope"></i> E-mail
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- RODAPÉ -->
+    <footer>
+      <p>
+       Guilherme Aredes
+      </p>
+    </footer>
+
+    <!-- SCRIPT: Animação Hello World na Hero -->
+    <script>
+      const text = "Hello, World!";
+      const typedEl = document.getElementById("typed");
+
+      let i = 0;
+      function digitar() {
+        if (i < text.length) {
+          typedEl.innerHTML += text.charAt(i);
+          i++;
+          setTimeout(digitar, 120);
+        }
+      }
+
+      window.addEventListener("DOMContentLoaded", digitar);
+    </script>
+  </body>
+</html>
