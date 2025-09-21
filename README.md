@@ -8,7 +8,7 @@ Estudante de Bacharelado em Ciência da Computação (2º/8°) na Universidade F
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=python,javascript" />
+<img src="https://skillicons.dev/icons?i=python,html" />
 
 ## Socials
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aredesog_/)
