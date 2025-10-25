@@ -10,6 +10,9 @@ Estudante de Bacharelado em Ciência da Computação (2º/8°) na Universidade F
 
 <img src="https://skillicons.dev/icons?i=python,html,css,haskell" />
 
+## Portifolio
+https://aredesog.github.io/
+
 ## Socials
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aredesog_/)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/guilhermearedesg/)
