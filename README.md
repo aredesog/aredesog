@@ -16,7 +16,7 @@ Estudante de Bacharelado em Ciência da Computação (2º/8°) na Universidade F
 </p>
 
 ## Portifolio
-https://aredesog.github.io/
+[![PORTFÓLIO](https://skillicons.dev/icons?i=github)](https://aredesog.github.io)
 
 ## Socials
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aredesog_/)
