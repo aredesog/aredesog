@@ -10,6 +10,11 @@ Estudante de Bacharelado em Ciência da Computação (2º/8°) na Universidade F
 
 <img src="https://skillicons.dev/icons?i=python,javascript" />
 
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=aredesog&show_icons=true&theme=tokyonight&height=200" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aredesog&layout=compact&theme=tokyonight&height=200" />
+</p>
+
 ## Portifolio
 https://aredesog.github.io/
 
