@@ -8,7 +8,7 @@ Estudante de Bacharelado em Ciência da Computação (3º/8°) na Universidade F
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=java,spring,PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=java,spring,SQL" />
 
 ## Portifolio
 [![PORTFÓLIO](https://skillicons.dev/icons?i=github)](https://aredesog.github.io)
