@@ -4,11 +4,11 @@
 Estudante de Bacharelado em Ciência da Computação (3º/8°) na Universidade Federal de Alfenas. Apaixonado por tecnologia, inovação e educação, com um forte interesse em transformar ideias em soluções práticas através da programação. Comprometido com a excelência acadêmica e o impacto positivo na área.
 
 ## Languages and Tools
-<img src="https://skillicons.dev/icons?i=c,java,spring,html,css,haskell,git" />
+<img src="https://skillicons.dev/icons?i=c,java,spring,html,css,postgres,git" />
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=springboot" />
 
 ## Portifolio
 [![PORTFÓLIO](https://skillicons.dev/icons?i=github)](https://aredesog.github.io)
