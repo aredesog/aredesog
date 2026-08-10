@@ -4,7 +4,7 @@
 Estudante de Bacharelado em Ciência da Computação (4º/8°) na Universidade Federal de Alfenas. Apaixonado por tecnologia, inovação e educação, com um forte interesse em transformar ideias em soluções práticas através da programação. Comprometido com a excelência acadêmica e o impacto positivo na área.
 
 ## Languages and Tools
-<img src="https://skillicons.dev/icons?i=c,java,spring,html,css,postgres,git" />
+<img src="https://skillicons.dev/icons?i=c,java,spring,html,css,js,postgres,git" />
 
 ## Learning
 
